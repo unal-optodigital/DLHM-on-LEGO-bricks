@@ -8,6 +8,6 @@ LEGO® is a trademark of the LEGO Group, which did not sponsor or endorse this a
 
 ## Contact
 - Julián Pérez Carvajal ([julperezca@unal.edu.co](mailto:julperezca@unal.edu.co))}
-- Arturo Gaviria ([agaviriaca@unal.edu.co](mailto:agaviriaca@unal.edu.co))}
+- Arturo Gaviria ([argaviriaca@unal.edu.co](mailto:argaviriaca@unal.edu.co))}
 - Jorge I. Garcia-Sucerquia ([jigarcia@unal.edu.co](mailto:jigarcia@unal.edu.co))
 - Carlos A. Buitrago ([cabuitragod@unal.edu.co](mailto:cabuitragod@unal.edu.co)) 
